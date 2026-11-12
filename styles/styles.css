@@ -59,6 +59,6 @@ h1 {
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 10%);
     padding: 1rem;
-    background-color: deepskyblue;
+    background-color: deepskyblue / 10%;
     color: cornflowerblue;
     }
