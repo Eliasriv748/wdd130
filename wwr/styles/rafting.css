@@ -54,8 +54,7 @@ header nav {
 }
 
 header nav a {
-    color: white;
-    font-weight: bold;
+    color: #ffffff;    font-weight: bold;
     text-decoration: none;
     padding: 10px;
 }
@@ -100,8 +99,8 @@ section h2 {
     width: 100%;
     padding: 14px;
     text-align: center;
-    background-color: rgb(24 76 60 / 92%);
-    color: white;
+    background-color: #184c3ceb;
+    color: #ffffff;
 }
 
 .hero article {
@@ -109,7 +108,7 @@ section h2 {
     bottom: 20px;
     left: 20px;
     right: 20px;
-    background-color: rgb(255 255 255 / 90%);
+    background-color: #ffffffe6;
     padding: 18px;
     color: var(--accent1-color);
     min-height: 120px;
@@ -130,8 +129,7 @@ section h2 {
 /* HISTORY: THREE-COLUMN GRID */
 
 .history {
-    background-color: white;
-    margin-top: 16px;
+    background-color: #ffffff;    margin-top: 16px;
 }
 
 .history-content {
@@ -155,8 +153,7 @@ section h2 {
 /* ADVENTURES: FIVE IMAGES */
 
 .adventures {
-    background-color: white;
-    margin-top: 16px;
+    background-color: #ffffff;    margin-top: 16px;
     margin-bottom: 16px;
 }
 
@@ -192,8 +189,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     background-color: var(--primary-color);
-    color: white;
-    padding: 20px 24px;
+    color: #ffffff;    padding: 20px 24px;
 }
 
 footer p {

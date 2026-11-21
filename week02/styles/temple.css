@@ -5,7 +5,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: #ffffff;
     padding: 25px;
     text-align: center;
     font-size: 24px;
@@ -48,7 +48,7 @@ li {
 
 footer {
     background-color: #333;
-    color: white;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
     font-size: 24px;
