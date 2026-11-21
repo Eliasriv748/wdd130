@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<title>Canyon Run whitewater rafting illustration</title>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d7eef1"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="river" x2="0" y2="1"><stop stop-color="#168ca6"/><stop offset="1" stop-color="#0b667a"/></linearGradient>
+</defs>
+<rect width="600" height="400" fill="url(#sky)"/>
+<path d="M0 194 78 90 157 183 247 104 347 196 440 92 600 195V290H0Z" fill="#789c8e"/>
+<path d="m0 230 92-65 96 64 106-45 105 62 94-85 107 73v106H0Z" fill="#617866"/>
+<path d="M0 220 Q105 227 193 248 L244 400 H0Z" fill="#bda47e"/>
+<path d="M600 214 Q477 224 406 250 L359 400H600Z" fill="#bda47e"/>
+<path d="M190 227 Q292 248 414 227 L600 400H0Z" fill="url(#river)"/>
+<path d="M222 251q40 10 79 3m40 3q31 1 62-8M160 296q57 16 99 2m111 3q64 0 112-17M82 359q69 21 119 4m204-4q62-3 106-14" fill="none" stroke="#e8fcfa" stroke-width="8" stroke-linecap="round" opacity=".86"/>
+<path d="M182 274q23 8 48 3m129-9q23 4 49-4m-130 93q35 11 70 1" fill="none" stroke="#d3f5f5" stroke-width="4" stroke-linecap="round"/>
+<path d="M28 259 49 198 70 259Z M61 262 85 187 109 262Z M489 251 510 178 531 251Z M520 259 544 199 567 259Z" fill="#345f49"/>
+<path d="M38 264v-17m46 22v-22m427 11v-18m34 25v-22" stroke="#5c4a37" stroke-width="5"/>
+<g transform="translate(300 275) rotate(-7)">
+<ellipse cx="0" cy="16" rx="97" ry="29" fill="#08394a" opacity=".25"/>
+<path d="M-84 0q7-25 85-27 78 0 84 26l-9 23q-60 30-149 0Z" fill="#e0a72c" stroke="#584a2f" stroke-width="5"/>
+<ellipse rx="65" ry="14" cy="4" fill="#443d33"/>
+<path d="M-76 2q72 18 152 0" stroke="#fbe3a0" stroke-width="6" fill="none"/>
+<g fill="#da5544" stroke="#263b43" stroke-width="3">
+<path d="M-51-13v-24h22v24M-12-21v-23h22v23M28-16v-25h22v25"/>
+</g>
+<g fill="#f4d1a3"><circle cx="-40" cy="-46" r="12"/><circle cx="0" cy="-53" r="12"/><circle cx="39" cy="-47" r="12"/></g>
+<g fill="#cf5939"><path d="M-53-50q10-22 26 0ZM-13-57q12-22 26 0ZM26-51q12-22 26 0Z"/></g>
+<path d="M-57-13-92 33m110-48 34 49" stroke="#efd388" stroke-width="6" stroke-linecap="round"/>
+<path d="m-109 28 31 11m113-5 31 11" stroke="#d9b05c" stroke-width="12" stroke-linecap="round"/>
+</g>
+</svg>
